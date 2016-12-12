@@ -1,0 +1,14 @@
+Develop Note
+
+action					method						page
+----------------------------------------------------------------
+/login					userlogin(name,pass)		index.html												
+/login															
+/login															
+/login															
+/login															
+/login															
+/login															
+/login															
+/login															
+/login															
